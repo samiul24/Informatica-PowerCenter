@@ -1,0 +1,6 @@
+https://knowledge.informatica.com/s/article/152936?language=en_US
+https://knowledge.informatica.com/s/article/507416?language=en_US
+
+
+Note: For SQL Server, Do not use "sa" account for Relational Connection.
+      So, create a new user like "user" and use this user in Relational Connection.
